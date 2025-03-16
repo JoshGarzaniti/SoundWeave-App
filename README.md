@@ -10,3 +10,5 @@ You'll also want to remove any videos that contain your artists' name that arent
 
 Start with the collection process. Because the API limits to 10,000 requests a day you can only run through so many artists a day (I'm building it out to run the code daily and collect examples over a few months
 so I have a good sample size. Then once you have you sample you can feed wherever you stored the data (for me google drive) in that .txt file and convert it for analysis in the librosa package for Python (this is all in part 2).
+
+By using this template you acknowledge you cannot claim this as your own intellectual property unless modified out substantially to other music genres 
